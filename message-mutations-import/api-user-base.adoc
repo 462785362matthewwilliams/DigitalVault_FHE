@@ -1,0 +1,2 @@
+// Auto-generated file: D:\MyCode\zama\demo\message-mutations-import\api-user-base.adoc
+// Generated at: 2025-10-11T03:35:52.885Z
